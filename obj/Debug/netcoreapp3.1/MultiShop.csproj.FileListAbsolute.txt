@@ -1,0 +1,527 @@
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfo.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cs
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.exe
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.deps.json
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.json
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.Views.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\staticwebassets\MultiShop.StaticWebAssets.Manifest.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\staticwebassets\MultiShop.StaticWebAssets.xml
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\MultiShop.styles.css
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.input.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.output.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.RazorCoreGenerate.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.csproj.CopyComplete
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\MultiShop.genruntimeconfig.cache
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Create.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Create.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Index.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Edit.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Index.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Create.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Edit.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Murad\source\repos\MultiShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ClothesPartialView.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Shop.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Murad\source\repos\MultiShop\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.exe
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.deps.json
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.json
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.Views.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\MultiShop.StaticWebAssets.Manifest.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.input.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.output.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorCoreGenerate.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ClothesPartialView.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Shop.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cs
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.CopyComplete
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\Desktop\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.genruntimeconfig.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.exe
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.deps.json
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.json
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.Views.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.AssemblyInfo.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorAssemblyInfo.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\MultiShop.StaticWebAssets.Manifest.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.input.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.TagHelpers.output.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorCoreGenerate.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Category\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Clothes\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Create.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\Slider\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Areas\MultiShopadmin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Clothes\Detail.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ClothesPartialView.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Shop.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.RazorTargetAssemblyInfo.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.Views.pdb
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.csproj.CopyComplete
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.pdb
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\MultiShop.genruntimeconfig.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\MultiShop.StaticWebAssets.Pack.cache
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MultiShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MultiShop.props
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MultiShop.props
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MultiShop.props
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Contact\mesaj.cshtml.g.cs
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Facebook.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Murad\Desktop\back-end\tasks\Yeni klasör\Back-endProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLogin.cshtml.g.cs

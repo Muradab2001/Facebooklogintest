@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220727070006_createCategoriesClothesClothesCategrois.cs" />
+    <Compile Remove="Migrations\20220727070006_createCategoriesClothesClothesCategrois.Designer.cs" />
+    <Compile Remove="Migrations\20220727083213_addClothesCategory.cs" />
+    <Compile Remove="Migrations\20220727083213_addClothesCategory.Designer.cs" />
+    <Compile Remove="Migrations\20220728052748_addCategoryrequired.cs" />
+    <Compile Remove="Migrations\20220728052748_addCategoryrequired.Designer.cs" />
+    <Compile Remove="Migrations\20220729174640_createClothesInfarmotion.cs" />
+    <Compile Remove="Migrations\20220729174640_createClothesInfarmotion.Designer.cs" />
+    <Compile Remove="Migrations\20220730014759_editedColumn.cs" />
+    <Compile Remove="Migrations\20220730014759_editedColumn.Designer.cs" />
+    <Compile Remove="Migrations\20220730213534_addsettingsandclothes.cs" />
+    <Compile Remove="Migrations\20220730213534_addsettingsandclothes.Designer.cs" />
+    <Compile Remove="Migrations\20220731005407_createBasketItemOrder.cs" />
+    <Compile Remove="Migrations\20220731005407_createBasketItemOrder.Designer.cs" />
+    <Compile Remove="Migrations\20220929081755_test.cs" />
+    <Compile Remove="Migrations\20220929081755_test.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Facebook" Version="7.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="3.1.32" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.27" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.27">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\MultiShopadmin\Data\" />
+    <Folder Include="Areas\MultiShopadmin\Models\" />
+  </ItemGroup>
+
+</Project>

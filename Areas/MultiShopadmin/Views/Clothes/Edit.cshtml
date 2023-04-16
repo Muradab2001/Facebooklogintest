@@ -1,0 +1,100 @@
+﻿
+@model Clothes
+@{
+    ViewData["Title"] = "Edit";
+
+    List<ClothesCategory> categories = (List<ClothesCategory>)ViewBag.ClothesCategories;
+}
+<main class="main-panel">
+    <h1 style="text-align:center; background-color:grey">Create Clothes</h1>
+    @if (TempData["Filname"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Filename"]</div>
+    }
+    <div class="alert alert-danger" asp-validation-summary="ModelOnly"></div>
+    <form method="post" class="mt-2" enctype="multipart/form-data">
+        <div>
+            <label>Main Photo:</label><br />
+            <input asp-for="MainPhoto" class="form-control" /><br />
+            <span classs="text-danger" asp-validation-for="MainPhoto"></span>
+        </div>
+        <div>
+            <label>Images:</label><br />
+            <input asp-for="Photos" class="form-control" /><br />
+            <span classs="text-danger" asp-validation-for="Photos"></span>
+        </div>
+        <div class="images">
+            <div class="images">
+                <h3>Main</h3>
+                <img src="~/assets/img/@Model.ClothesImages.FirstOrDefault(p=>p.IsMain == true).Name">
+            </div>
+            <h3>Other images</h3>
+            <div class="image d-flex">
+
+                @foreach (ClothesImage image in Model.ClothesImages.Where(p => p.IsMain == false))
+                {
+                    <div style="position:relative;" class="col-sm-3">
+                        <img src="~/assets/img/@image.Name" style="width:100%;height:200px;object-fit:contain">
+                        <input type="hidden" name="ImagesId" value="@image.Id">
+                        <button style="position:absolute; right:5px" type="button" class="btn btn-success remove">X</button>
+                    </div>
+                }
+            </div>
+        </div>
+        <div>
+            <label>Name:</label><br />
+            <input asp-for="Name" type="text" class="form-control" /><br />
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div>
+            <label>Price:</label><br />
+            <input asp-for="Price" type="text" class="form-control" /><br />
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+        <div>
+            <label>Text:</label><br />
+            <input asp-for="Text" type="text" class="form-control" /><br />
+            <span class="text-danger" asp-validation-for="Text"></span>
+        </div>
+        <div>
+            <label>Desc:</label><br />
+            <input asp-for="Desc" type="text" class="form-control" /><br />
+            <span class="text-danger" asp-validation-for="Desc"></span>
+        </div>
+        <div>
+            <label>Clothes Information:</label><br />
+            <select class="form-control" asp-for="InformationId" asp-items="@(new SelectList(ViewBag.Information,"Id","Information"))"></select>
+        </div>
+        <div class="mb-3">
+            <label asp-for="@Model.CategoryIds" class="form-label">Authors</label>
+            <select asp-for="@Model.CategoryIds" class="form-select">
+                @foreach (var category in (List<Category>)ViewBag.Categories)
+                {
+                    if (Model.ClothesCategories.FirstOrDefault(c => c.CategoryId == category.Id) != null)
+                    {
+                        <option value="@category.Id" selected>@category.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                }
+            </select>
+            <span class="mt-2 text text-danger" asp-validation-for="@Model.CategoryIds"></span>
+        </div>
+        <div class="mt-5">
+            <button class="btn btn-success" type="submit"> Update </button>
+        </div>
+    </form>
+</main>
+@section Scripts{
+    <script>
+        let btns = document.querySelectorAll(".remove")
+
+        btns.forEach(b => {
+            b.addEventListener("click", function () {
+                b.parentElement.remove();
+            })
+        })
+    </script>
+}

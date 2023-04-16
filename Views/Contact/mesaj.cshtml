@@ -1,0 +1,37 @@
+﻿<html>
+
+<head>
+  
+</head>
+<body>
+    <h1 id="mesaj">
+
+    </h1>
+
+    <input id="comment" type="text"/> 
+    <button id="click">gonder</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.4/signalr.min.js"></script>
+
+    <script>
+        $(document).ready(()=>{
+            const connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:44385/myhub").build();
+            connection.start();
+           let mesaj= $("#mesaj");
+              $("#click").click(()=>{
+                var comment = $("#comment").val();
+                connection.invoke("Send", comment).catch(error => console.log("olmadi"));
+
+              });
+                  
+            
+            connection.on("recivemesage",mesage=>mesaj.html(mesage));
+                   
+            
+        });
+
+
+    </script>
+</body>
+</html>

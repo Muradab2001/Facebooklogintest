@@ -1,0 +1,63 @@
+﻿@model RegisterVM
+@{ ViewData["Title"] = "Register"; }
+
+
+<div class="alert alert-danger" asp-validation-summary="ModelOnly">
+
+</div>
+<div class="container register-form">
+    <div class="form">
+        <div class="note">
+            <p>Register</p>
+        </div>
+        <form asp-controller="Account" asp-action="ExternalLogin" method="post" asp-route-provider="Facebook">
+         
+            <button style="outline:none" type="submit" class="btnSubmit btn-primary">Submit</button>
+     </form>
+
+      @*  <form class="form-content" method="post">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+
+                        <input asp-for="FirstName" class="form-control" placeholder="FirstName" /> <br />
+                        <span class="text text-danger" asp-validation-for="FirstName"></span>
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="LastName" class="form-control" placeholder="FirstName" /> <br />
+                        <span class="text text-danger" asp-validation-for="LastName"></span>
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="UserName" class="form-control" placeholder="UserName" /><br />
+                        <span class="text text-danger" asp-validation-for="UserName"></span>
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="Email" class="form-control" placeholder="Your Email" /><br />
+                        <span class="text text-danger" asp-validation-for="Email"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <input asp-for="Password" class="form-control" placeholder="Your Password" /><br />
+                        <span class="text text-danger" asp-validation-for="Password"></span>
+                    </div>
+                    <div class="form-group">
+                        <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" /><br />
+                        <span class="text text-danger" asp-validation-for="ConfirmPassword"></span>
+                    </div>
+                    <input asp-for="Terms" />
+                    <label>Terms</label> <br />
+                    <span class="text text-danger" asp-validation-for="Terms"></span>
+                </div>
+            </div>
+            <button style="outline:none" type="submit" class="btnSubmit btn-primary">Submit</button>
+        </form>*@
+    </div>
+</div>
+
+
+
+
+
+
+
